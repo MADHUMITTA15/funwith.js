@@ -17,3 +17,5 @@ let myName="MAdhumitta";
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
 //prints the interpolation
 
+
+console.log("Do some shit");
